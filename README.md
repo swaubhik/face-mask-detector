@@ -3,7 +3,7 @@
 <div align= "center">
   <h4>Face Mask Detection system built with OpenCV, Keras/TensorFlow using Deep Learning and Computer Vision concepts in order to detect face masks in static images as well as in real-time video streams.</h4>
 </div>
-&nbsp;
+
 ![Live Demo](https://github.com/swaubhik/face-mask-detector/blob/master/Readme_images/demo.gif)
 
 ## :innocent: Motivation
