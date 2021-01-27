@@ -13,7 +13,7 @@ In the present scenario due to Covid-19, there is no efficient face mask detecti
 ## :eyes: Demo image
 
 <p align="center"><img src="https://github.com/swaubhik/face-mask-detector/blob/master/Readme_images/demo.jpg" width="700" height="400"></p>
-<p align="center"><img src="<p align="center"><img src="https://github.com/swaubhik/face-mask-detector/blob/master/Readme_images/demo.jpg" width="700" height="400"></p>" width="700" height="400"></p>
+<p align="center"><img src="<p align="center"><img src="https://github.com/swaubhik/face-mask-detector/blob/master/Readme_images/demo_nomask1.jpg" width="700" height="400"></p>" width="700" height="400"></p>
 
 ## :warning: TechStack/framework used
 
