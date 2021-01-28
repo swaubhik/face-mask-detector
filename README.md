@@ -105,7 +105,7 @@ Feel free to mail me for any doubts/query
 
 ## :handshake: Contribution
 
-Feel free to **file a new issue** with a respective title and description on the the [Face-Mask-Detection](https://github.com/swaubhik/face-mask-detector/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**!
+Feel free to **file a new issue** with a respective title and description on the the [Face-Mask-Detector](https://github.com/swaubhik/face-mask-detector/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**!
 
 ## :heart: Owner
 
