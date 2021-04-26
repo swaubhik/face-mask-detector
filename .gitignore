@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 #readme images
-Readme_images/
+.Readme_images/
